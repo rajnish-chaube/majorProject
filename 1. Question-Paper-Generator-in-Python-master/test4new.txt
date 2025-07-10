@@ -1,0 +1,14 @@
+##what is your name##10#3#1#
+##who is krishna##10#1#1#
+##what is your fathersname##10#2#2#
+##which is krishna##10#1#4#
+##what is your age##10#2#4#
+##why is krishna##10#1#3#
+##what is your address##10#3#2#
+##what is krishna##10#2#3#
+##what is your dob##10#2#5#
+##where is krishna##10#2#5#
+
+
+
+

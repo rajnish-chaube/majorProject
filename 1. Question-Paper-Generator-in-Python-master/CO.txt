@@ -1,0 +1,6 @@
+﻿#1:Use the core python scripting concepts like control statements, string manipulation functions and the built.#
+#2:Be able to design, code and test small python programs that make use of functions.#
+#3:Demonstrate usage of file handling and pattern matching using regular expressions.#
+#4:Build GUI for applications using python libraries.#
+#5:Demonstrate MySQL database connectivity using python scripting.#
+#6:Apply the knowledge of python and use the language scripting elements and constructs, data structures.#

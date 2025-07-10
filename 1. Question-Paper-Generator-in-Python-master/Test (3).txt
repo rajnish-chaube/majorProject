@@ -1,0 +1,124 @@
+﻿##For any three sets A, B and C, Prove that 
+i)(A Δ B)=(B ∩A’)U(A∩B’)=(B-A)U(A-B) 
+ii)(A∩B)U(A∩B∩C’∩D)U(A’∩B)=B.##10#1#3#
+##If A,B,C are finite sets Prove the extended addition principle.##10#2#4#
+##Find the probability of getting a sum different from 10 or 12 after rolling two dice.##10#3#2#
+##Using Venn diagram, prove the following property of the symmetric difference:  
+AΔ(BΔC) = (AΔB)ΔC##10#2#1#
+##Illustrate Power set with an example and P.T  the Power set of A has 2n elements.##10#2#2#
+##The freshman class of a private engineering college has 300 students. It is known that 180 can program in PASCAL, 120 in FORTRAN, 30 in c++, 12 in PASCAL and c++, 18 in FORTRAN and c++, 12 in PASCAL and FORTRAN, and 6 in all three languages.
+If two students are selected at random, what is the probability that they can:
+          i)Both program in PASCAL? 
+         ii) Both program only in PASCAL?     	##10#2#5#
+##Examine whether the given compound proposition  is a tautology
+[(pvq)→r ] ↔[ ~r→ ~(pvq)]##10#2#4#
+##Test the validity of the arguments
+i)p Λ q Λ[p→(r Λq)] Λ[r→(svt)] Λ~s concludes t
+ii)p Λ(p→r) Λ[p→(qvr)] Λ(~qv~s) concludes  ##10#2#4#
+##For any propositions p,q,r simplify the following using laws of logic                             
+    i. (p ν q) ^ ~{(~p)ν q}
+    ii. ~[~{(p ν q) ^ r} ν ~q]##10#2#3#
+##Obtain y(0.2) using Picard’s method up to second approximation for the initial value problem dy/dx = x2 − 2y , y(0) = 1##10#1#5#
+##Define OS. Discuss it's role from different perspectives.##10#1#4#
+##Distinguish among following terminologies: Multiprogramming systems,
+multi-tasking systems or Time Sharing systems.##10#2#5#
+##Explain multi-programming and time sharing operating system.##10#2#2#
+##Explain dual mode operation with a  neat diagram##10#1#5#
+##List out and explain the different services that an OS provides##10#2#3#
+##List and explain services provided by an operating system that are designed to make using computer system more convenient for users.##10#2#1#
+##List and explain the functions and services of an operating system and OS operations##10#3#2#
+##Define a system call with an example of how they are used##10#1#3#
+##Write and explain the sequence of system calls for copying a file to another (new) file##10#2#5#
+##What are system calls? With examples explain different categories of system calls.##10#1#5#
+##Explain the different types of system calls.##10#1#2#
+##Distinguish between the following pairs of terms:
+	i) CPU burst and I/O burst jobs
+	ii) User’s view and system’s view of OS.
+	iii) Batch systems and time sharing systems.
+	iv) User mode and kernel mode operation ##10#3#2#
+##Give the format of EFLAG register and explain each flag##10#2#5#
+##Explain special purpose registers##10#1#3#
+##Explain the segment registers used in 8086 and explain clearly how physical address is calculated in 8086.##10#1#4#
+##What is bus? Explain its types##10#2#3#
+##Find the memory address of the next instruction to be executed by the microprocessor, when operated in the real mode, for the following CS:IP combinations:
+	i)CS=1000H and IP=2000H 
+	ii)CS=2300H and IP=1A00H ##10#1#2#
+##Explain Real mode memory addressing.##10#1#1#
+##Explain general purpose registers.##10#3#1#
+##Explain different areas of memory system with diagram##10#4#2#
+##Explain microprocessor based personal computer system with the block diagram##10#2#3#
+##Explain internal microprocessor architecture with a neat diagram.##10#3#5#
+##The Random Variable X has the following probability mass function, find variance and 
+(i)  k  
+(ii)  P(X<3) 
+(iii) P(3<X≤ 5)                                                     		
+X	0	1	2	3	4	5
+P(X)	K	3K	5K	7K	9K	11K	
+##10#1#1#
+##A random variable (X=x) has the following probability distributions 
+x     0     1     2     3     4     5     6     7
+P(x)  0     k     2k    2k    3k    k^2   2k^2  (7k^2)+k
+Find: 
+(i) k 
+(ii) p(x<6) 
+(iii) p(x>6) 
+(iv) Mean.
+Also find the probability distribution and distribution function of x.##10#2#4#
+##Find the mean and variance of geometric distributions.##10#3#3#
+##3% of the product produced by a machine are found to be defective. Find the probability that first defective occurs in the 
+(i) 5th item inspected 
+(ii) first five inspected 
+(iii) mean 
+(iv) variance.##10#1#1#		
+##If the probability that a target is destroyed many at one shot is 0.5. What is the probability that it would be destroyed on 
+(i) 6th attempt 
+(ii) more than 6 attempt 
+(iii) mean 
+(iv) variance.##10#1#2#		
+##Derive Mean and Variance for the Poisson Distribution	##10#3#2#
+##2% of the fuses manufactured by a firm are found to be defective.  Find the probability that a box containing 200 fuses contains 
+(i)  No defective fuse
+(ii) 3 or more defective fuses
+(iii) atleast one defective fuse##10#2#2#
+##The probability that an individual’s  suffers a bad reaction from an injection is 0.001. Find the probability that out of  2000 individual 
+(i) almost 2
+(ii) exactly 2
+(iii) more than 2 will get bad reaction.##10#1#4#
+##The probability density f(x) of continuous random variable is given by f(x)=ke^(-|x| ),-∞<x<∞. Prove that k=1⁄2 and also find mean and variance.##10#2#4#
+##Derive Mean and S.D for the Exponential Distribution.##10#2#4#
+##The sale per day in a shop is exponentially distributed with an average sale amounting to Rs.100 and net profit is 8%. Find the probability that the net profit exceeds Rs. 30 on a day.##10#2#5#
+##In a certain town the duration of a shower is exponentially distributed with mean 5min. what is the probability that the shower will last for 
+(i) 10min or more
+(ii) less than 10min
+(iii) between 10 to 12min.##10#3#5#
+##In examination 7% of students score less than 35% marks and 89% of students score less than 60% marks, Find the mean and standard deviation, if the marks are normally distributed. It is given that if p (z) =1/√2π ∫_0^ze^(-z^2/2)  dz   then p (1.2263)=0.39    p(1.4757)=0.43.	##10#3#5#
+##A sample of 100 dry battery cells tested to find the length of life produced by a company and following results are recorded: mean life is 12 hrs, SD is 3 hrs. Assuming data to be normally distributed, find the expected life of a dry cell.  (i) have more than 15 hrs (ii) between 10 and 14 hrs.[P(0.667)=0.2486,P(1)=0.3413].##10#3#3#
+##The mean weight of 1000 students during medical examination was found to be 70kg and S.D weight 6kg. Assume that the weight are normally distributed, find the number of students having weight (i) less than 65kg (ii) more than 75kg (iii)  between 65kg  to 75kg.[P(0.83)=0.2967]	##10#2#1#
+##Explain the following
+(i)Null hypothesis
+(ii)Alternative hypothesis
+(iii)Type I and type II error
+(iv)Level of significance
+(v)Standard error##10#2#3#
+##The weights of 1500 ball bearings are normally distributed with a mean of 635 gms and S.D of 1.36gms. If 300 random samples of size are drawn from this population , determine the expected mean and S.D of the sampling distribution of means if sampling is done a) with replacement   b) without replacement.##10#2#3#
+##Certain tubes manufactured by a company have mean life time of 800 hours and S.D of 60hours. Find the probability that a random sample of 16 tubes from the group will have a mean life time
+a) between 790 hours and 810 hours
+b) less than 785 hours
+c) more than 820 hours
+d) between 770 hours and 830 hours.##10#1#1#
+##In 324 throws of a six faced die, an odd number turned up 181 times. Is it reasonable to think that die is an unbiased one?##10#2#2#
+##The mean and S.D of the maximum loads supported by 60 cables are 11.09 tonnes and 0.73 tonnes respectively. Find   a) 95%  b) 99% confidence limits for mean of the maximum loads of all cables by the company.##10#2#3#
+##Obtain y(0.2) using Picard’s method up to second approximation for the initial value problem dy/dx=x^2-2y  ,y(0)=1.##10#2#3#
+##Using Taylor’s series method, find y at x=0.1 and x=0.2 considering up to 4th degree terms. Given that dy/dx=x^2 y-1 and y(0)=1.##10#2#5#
+##Solve by Euler’s modified method to obtain y(1.2)  given dy/dx=  (y+x)/(y-x)    ,y(1)=2. Using step size h=0.2.##10#2#1#
+##Solve dy/dx=(y^2-x^2)/(y^2+x^2 )  ,y(0)=1 , find y at x=0.2 using Runge-kutta method of 4th order taking step-length h=0.2. Accurate up to 4 decimal places.##10#3#2#
+##Obtain a solution up to the third approximation of y for x=0.2 by picard’s method, given thatdy/dx+y=e^x  ;y(0)=1.##10#1#3#
+##Given that  dy/dx=x^2 (1+y) and y(1)=1; y(1.1)=1.233 ; y(1.2)=1.548; y(1.3)=1.979,   find y at x=1.4 using Milne’s predictor and corrector method.##10#1#4#
+##Apply Runge-kutta method of 4th order, to compute y(0.2). Given that  10 dy/dx=x^2+y^2  ,y(0)=1 by taking h=0.1.##10#2#5#
+##The following table gives the solution of dy/dx=x-y^2.  Find the value of y at x=0.8 using   Milne’s predictor and corrector formulae.
+x     0     0.2     0.4     0.6
+y     0     0.02    0.07    0.1##10#2#3#
+##Solve the following by modified Euler’s method thatdy/dx=log_e⁡[(x+y)]⁡, y(0)=2 and find y(0.4) by taking h=0.2.##10#1#1#
+##If  dy/dx=xy+y^2; y(0)=1, y(0.1)=1.1169, y(0.2)=1.2773, y(0.3)=1.5049
+Find y(0.4) correct to three decimal places, using the Milne’s predictor – corrector method. Apply the corrector formulae twice.##10#2#5#
+
